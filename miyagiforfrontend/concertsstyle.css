@@ -1,0 +1,259 @@
+.blog {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.blog .div {
+  background-color: z#ffffff;
+  width: 1152px;
+  height: 1261px;
+  position: relative;
+}
+
+.blog .overlap {
+  position: absolute;
+  width: 687px;
+  height: 357px;
+  top: 249px;
+  left: 235px;
+}
+
+.blog .miyagi-andy-panda {
+  position: absolute;
+  width: 671px;
+  top: 0;
+  left: 0;
+  font-family: "Heebo", Helvetica;
+  font-weight: 500;
+  color: #21243d;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog .text-wrapper {
+  width: 682px;
+  top: 274px;
+  left: 5px;
+  font-weight: 500;
+  color: var(--dark-color);
+  font-size: 30px;
+  line-height: normal;
+  text-decoration: underline;
+  position: absolute;
+  font-family: "Heebo", Helvetica;
+  letter-spacing: 0;
+}
+
+.blog .text-wrapper-2 {
+  top: 323px;
+  left: 5px;
+  position: absolute;
+  width: 374px;
+  font-family: "Heebo", Helvetica;
+  font-weight: 400;
+  color: var(--dark-color);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog .vector {
+  top: 274px;
+  left: 1px;
+  position: absolute;
+  width: 681px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.blog .text-wrapper-3 {
+  position: absolute;
+  width: 682px;
+  top: 734px;
+  left: 240px;
+  font-family: "Heebo", Helvetica;
+  font-weight: 500;
+  color: var(--dark-color);
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog .text-wrapper-4 {
+  width: 251px;
+  top: 159px;
+  left: 235px;
+  font-weight: 700;
+  color: #21243d;
+  font-size: 44px;
+  line-height: 60px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Heebo", Helvetica;
+  letter-spacing: 0;
+}
+
+.blog .text-wrapper-5 {
+  top: 781px;
+  left: 240px;
+  position: absolute;
+  width: 374px;
+  font-family: "Heebo", Helvetica;
+  font-weight: 400;
+  color: var(--dark-color);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog .p {
+  position: absolute;
+  width: 682px;
+  top: 608px;
+  left: 240px;
+  font-family: "Heebo", Helvetica;
+  font-weight: 400;
+  color: var(--dark-color);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog .text-wrapper-6 {
+  position: absolute;
+  width: 682px;
+  top: 823px;
+  left: 236px;
+  font-family: "Heebo", Helvetica;
+  font-weight: 400;
+  color: var(--dark-color);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog .img {
+  top: 732px;
+  left: 230px;
+  position: absolute;
+  width: 681px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.blog .vector-2 {
+  top: 1026px;
+  left: 236px;
+  position: absolute;
+  width: 681px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.blog .overlap-group {
+  position: absolute;
+  width: 1152px;
+  height: 182px;
+  top: 1079px;
+  left: 0;
+}
+
+.blog .footer {
+  position: absolute;
+  width: 1152px;
+  height: 182px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.blog .linkedin {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 51px;
+  left: 661px;
+}
+
+.blog .group {
+  position: absolute;
+  width: 37px;
+  height: 30px;
+  top: 51px;
+  left: 589px;
+}
+
+.blog .insta {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 51px;
+  left: 524px;
+}
+
+.blog .image {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 51px;
+  left: 464px;
+  object-fit: cover;
+}
+
+.blog .overlap-group-2 {
+  position: absolute;
+  width: 276px;
+  height: 50px;
+  top: 26px;
+  left: 816px;
+}
+
+.blog .text-wrapper-7 {
+  width: 83px;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  text-align: right;
+  line-height: normal;
+  position: absolute;
+  font-family: "Heebo", Helvetica;
+  letter-spacing: 0;
+}
+
+.blog .text-wrapper-8 {
+  width: 102px;
+  top: 0;
+  left: 65px;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  text-align: right;
+  line-height: normal;
+  position: absolute;
+  font-family: "Heebo", Helvetica;
+  letter-spacing: 0;
+}
+
+.blog .text-wrapper-9 {
+  width: 121px;
+  top: 1px;
+  left: 155px;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  text-align: right;
+  line-height: normal;
+  position: absolute;
+  font-family: "Heebo", Helvetica;
+  letter-spacing: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
